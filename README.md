@@ -1,4 +1,4 @@
-# MazeEscape
+# Get me if you can
 \\ this is the game that I want to make without any external help or as a white hat project //
 
 this game's name is Maze Escape
