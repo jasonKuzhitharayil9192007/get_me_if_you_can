@@ -1,12 +1,12 @@
 # Get me if you can
 \\ this is the game that I want to make without any external help or as a white hat project //
 
-this game's name is Maze Escape
+this game's name is get me if you can
 
 Goal/Rules of the game:
 there is a hunter, and there is a victim.
-the cop has to try to get the victum.
-the victum has to try to get a ruby in the center of the maze.
+the cop has to try to get the victim.
+the victim has to try to get a ruby in the center of the maze.
 
 if the hunter succeeds, he gets a point.
 if the victim succeeds, he gets a point.
